@@ -7,7 +7,7 @@ Preface: First github upload, so I'm very new at all of this. Bear with it, any 
 
 Compile with:
 
-`gcc zimagescan.c `pkg-config --cflags --libs gtk+-3.0` -o zimagescan`
+```gcc zimagescan.c `pkg-config --cflags --libs gtk+-3.0` -o zimagescan```
 
 | Key               | Action             |
 | ----------------- | ------------------ |
